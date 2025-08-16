@@ -1,0 +1,6 @@
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/CMakeFiles/Test_Nucleo_GPIO.dir
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/CMakeFiles/edit_cache.dir
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/CMakeFiles/rebuild_cache.dir
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+E:/C/VScode_STM32/VSCode_STM32_GPIO/Test_Nucleo_GPIO/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

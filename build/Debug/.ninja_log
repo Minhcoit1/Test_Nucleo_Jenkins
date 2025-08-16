@@ -1,0 +1,27 @@
+# ninja log v5
+25	322	7709992105290892	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/main.c.obj	2649761103ebb64d
+46	485	7709964575316179	CMakeFiles/Test_Nucleo_GPIO.dir/startup_stm32f411xe.s.obj	2b9cc55caf95e01f
+35	400	7709976840852653	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/stm32f4xx_it.c.obj	a2b23d8c4e90f13b
+40	411	7709964574546138	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/sysmem.c.obj	9b84ef1f19235154
+506	1335	7709964583130263	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	8b2518e1d1fa196a
+39	430	7709976841132701	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/stm32f4xx_hal_msp.c.obj	68754f4a9cf90a09
+43	506	7709964575486136	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/syscalls.c.obj	ba4dce5a57d143b0
+485	1347	7709964583140260	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	8222f54ad6ae05f6
+526	1484	7709964584715505	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	256434b4927a91f7
+411	1240	7709964582231762	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	8e3f2bc3a94373d5
+1366	2147	7709964591441050	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	dab0f044d5ec5fd8
+665	1753	7709964587071030	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	5d3c92d847233b36
+521	1366	7709964583680264	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	64842662bce3658f
+1240	2085	7709964590071086	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	1e959be7593f0fe6
+1335	2217	7709964591141072	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	37a38b0527a1b4bd
+1347	2122	7709964590881089	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	ad0b3fed0edeb2a7
+1484	2412	7709964594267192	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	a457dd29fd66bb4b
+1753	2492	7709964595062348	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	96341cd7ef845506
+2122	2652	7709964597142741	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	46bfa68e79e054c8
+2085	2640	7709964596842433	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	7dbd0b5f08e69584
+322	610	7709992107865899	Test_Nucleo_GPIO.elf	9203605e80328ec9
+11	372	7746832021984677	build.ninja	368554892049107
+23	569	7746832685621266	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/main.c.obj	2649761103ebb64d
+570	1736	7746832696975902	Test_Nucleo_GPIO.elf	9203605e80328ec9
+33	397	7746833453139384	CMakeFiles/Test_Nucleo_GPIO.dir/Core/Src/main.c.obj	2649761103ebb64d
+398	720	7746833456399669	Test_Nucleo_GPIO.elf	9203605e80328ec9
