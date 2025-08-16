@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Lấy code từ Git
-                git branch: 'main', url: 'https://github.com/Minhcoit1/Test_Nucleo_Jenkins.git'
+                git branch: 'master', url: 'https://github.com/Minhcoit1/Test_Nucleo_Jenkins.git'
             }
         }
 
