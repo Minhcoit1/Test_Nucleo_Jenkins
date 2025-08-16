@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_NAME = "Test_Nucleo_Jenkins"   // thay bằng tên project CubeIDE của bạn
+        PROJECT_NAME = "Test_Nucleo_GPIO"   // thay bằng tên project CubeIDE của bạn
         BUILD_DIR = "Debug"               // hoặc "Release" tùy bạn chọn trong CubeIDE
     }
 
