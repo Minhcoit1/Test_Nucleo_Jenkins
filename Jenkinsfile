@@ -19,7 +19,7 @@ pipeline {
                 script {
                     sh """
                         echo "=== Building STM32 firmware ==="
-                        make -j4
+                        make -C Debug -j4
                     """
                 }
             }
